@@ -806,6 +806,14 @@ header.header-sm{
 .blog-item-bottom a:hover{
     opacity: 0.8;
 }
+.lg-title{
+    display: inline-block;
+}
+.blog-icon{
+    width: 25px;height: 25px;border-radius: 50%;
+    display: inline-block;
+   
+}
 
 /* ### ABOUT PAGE ### */
 /* about */
