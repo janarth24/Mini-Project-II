@@ -48,6 +48,7 @@
     background-color: transparent;
     font-weight: bold;
     color: #1ec6b6;  
+    
 }
 #search-class{
     width: 40px;
@@ -58,6 +59,7 @@
     height: 34.39px;
     border-radius: 50px;
     background-color: transparent;
+    margin:auto;
     
     
 }
